@@ -5,10 +5,12 @@ Shader "URP/MaterialVertexFragment"
         _MainTex ("Texture", 2D) = "white" {}
         _ScaleUVX ("Scale X", Range(1,10)) = 1
         _ScaleUVY ("Scale Y", Range(1,10)) = 1
+
     }
     SubShader
     {
         Tags { "RenderPipeline" = "UniversalRenderPipeline" }
+        
 
         Pass
         {

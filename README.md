@@ -1,5 +1,7 @@
 # CG-lecture9-activity
 
+In scene lecture 9 activity 
+
 
 Vertex Fragment Shader:
 

@@ -9,3 +9,6 @@ Simple Shadow
 
 Vertex Fragment Shader
 ![2025-11-07 16-15-23 (online-video-cutter com) (2)](https://github.com/user-attachments/assets/39bac21b-32cc-47f9-b0b8-62dae8ece71d)
+
+Glass
+<img width="358" height="346" alt="image" src="https://github.com/user-attachments/assets/3533a90e-f01e-4b20-8371-70b43ec2abff" />
